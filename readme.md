@@ -1,6 +1,6 @@
-# gt-impact (impact-front)
+# gt-impact
 
-website for modpack impact
+copy of website for modpack impact
 
 ## Install the dependencies
 ```bash
