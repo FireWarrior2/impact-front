@@ -1,54 +1,33 @@
-name: Deploy
-
+name: Build & Deploy
 on:
   push:
     branches:
       - main
-
 jobs:
   build:
-    name: Build
-    runs-on: ubuntu-latest
-
+    runs-on: ubuntu-18.04
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v2
-
       - name: Setup Node
         uses: actions/setup-node@v1
         with:
-          node-version: 16
-
-      - name: Install dependencies
-        uses: bahmutov/npm-install@v1
-        
-      - name: Setup Quasar
-        uses: joshstrange/setup-quasar@1.0.0
-
-      - name: Build project
-        run: quasar build
-
-      - name: Upload production-ready build files
-        uses: actions/upload-artifact@v2
+          node-version: '10.x'
+      - name: Cache
+        uses: actions/cache@v1
         with:
-          name: production-files
-          path: ./dist
-
-  deploy:
-    name: Deploy
-    needs: build
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
-
-    steps:
-      - name: Download artifact
-        uses: actions/download-artifact@v2
-        with:
-          name: production-files
-          path: ./dist
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+      - name: Install
+        run: npm ci
+      - name: Build
+        run: npm run build
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BASE_BRANCH: main
+          BRANCH: gh-pages
+          FOLDER: dist/spa
