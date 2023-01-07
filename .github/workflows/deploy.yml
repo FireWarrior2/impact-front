@@ -21,9 +21,12 @@ jobs:
 
       - name: Install dependencies
         uses: bahmutov/npm-install@v1
+        
+      - name: Setup Quasar
+        uses: joshstrange/setup-quasar@1.0.0
 
       - name: Build project
-        run: npm run build
+        run: quasar build
 
       - name: Upload production-ready build files
         uses: actions/upload-artifact@v2
