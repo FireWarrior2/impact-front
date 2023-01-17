@@ -13,7 +13,7 @@
     </q-card-section>
 
     <q-card-section class="q-pa-none">
-      <q-btn to="/wiki" style="border-radius: 0" size="lg" flat icon="keyboard_backspace" text-color="white" />
+      <q-btn to="/" style="border-radius: 0" size="lg" flat icon="keyboard_backspace" text-color="white" />
     </q-card-section>
 
     <q-card-section class="items-center q-pa-none" style="text-align: center">

@@ -5,7 +5,7 @@
     "slug": "cokeoven",
     "tier": "steam",
     "article": "wiki/machines/cokeoven.md",
-    "img": "https://gtimpact.space/media/gregtech/cokeoven.png",
+    "img": "media/gregtech/cokeoven.png",
     "mod": "impact"
   },
   {
@@ -14,7 +14,7 @@
     "slug": "primitivewaterpump",
     "tier": "steam",
     "article": "wiki/machines/primitivewaterpump.md",
-    "img": "https://gtimpact.space/media/gregtech/primwaterpump.png",
+    "img": "media/gregtech/primwaterpump.png",
     "mod": "impact"
   },
   {
@@ -23,7 +23,7 @@
     "slug": "sawmill",
     "tier": "ulv",
     "article": "wiki/machines/sawmill.md",
-    "img": "https://gtimpact.space/media/gregtech/sawmill.png",
+    "img": "media/gregtech/sawmill.png",
     "mod": "impact"
   },
   {
@@ -32,7 +32,7 @@
     "slug": "pyrolyseoven",
     "tier": "lv",
     "article": "wiki/machines/pyrolyseoven.md",
-    "img": "https://gtimpact.space/media/gregtech/purolyse.png",
+    "img": "media/gregtech/purolyse.png",
     "mod": "impact"
   },
   {
@@ -41,7 +41,7 @@
     "slug": "advancedpyrolyseoven",
     "tier": "ev",
     "article": "wiki/machines/advancedpyrolyseoven.md",
-    "img": "https://gtimpact.space/media/gregtech/AdvPyrolyse.png",
+    "img": "media/gregtech/AdvPyrolyse.png",
     "mod": "impact"
   },
   {
@@ -50,7 +50,7 @@
     "slug": "electricwaterdrillingrig",
     "tier": "mv",
     "article": "wiki/machines/electricwaterdrillingrig.md",
-    "img": "https://gtimpact.space/media/gregtech/ElWater.png",
+    "img": "media/gregtech/ElWater.png",
     "mod": "impact"
   },
   {
@@ -59,7 +59,7 @@
     "slug": "spacesatellite",
     "tier": "hv",
     "article": "wiki/machines/spacesatellite.md",
-    "img": "https://gtimpact.space/media/gregtech/SpaceSatellite.png",
+    "img": "media/gregtech/SpaceSatellite.png",
     "mod": "impact"
   },
   {
@@ -77,7 +77,7 @@
     "slug": "nuclearreactor",
     "tier": "ev",
     "article": "wiki/machines/nuclearreactor.md",
-    "img": "https://gtimpact.space/media/gregtech/NuclearReactor.png",
+    "img": "media/gregtech/NuclearReactor.png",
     "mod": "impact"
   },
   {
@@ -86,7 +86,7 @@
     "slug": "parallelsupercomputer",
     "tier": "iv",
     "article": "wiki/machines/parallelsupercomputer.md",
-    "img": "https://gtimpact.space/media/gregtech/ParComputer.png",
+    "img": "media/gregtech/ParComputer.png",
     "mod": "impact"
   },
   {
@@ -95,7 +95,7 @@
     "slug": "lapotronicsupercapacitor",
     "tier": "iv",
     "article": "wiki/machines/lapotronicsupercapacitor.md",
-    "img": "https://gtimpact.space/media/gregtech/LSC.png",
+    "img": "media/gregtech/LSC.png",
     "mod": "impact"
   },
   {
@@ -104,7 +104,7 @@
     "slug": "multipbemachine",
     "tier": "iv",
     "article": "wiki/machines/multipbemachine.md",
-    "img": "https://gtimpact.space/media/gregtech/ParBPE.png",
+    "img": "media/gregtech/ParBPE.png",
     "mod": "impact"
   },
   {
@@ -113,7 +113,7 @@
     "slug": "multilaserengraver",
     "tier": "iv",
     "article": "wiki/machines/multilaserengraver.md",
-    "img": "https://gtimpact.space/media/gregtech/ParLaser.png",
+    "img": "media/gregtech/ParLaser.png",
     "mod": "impact"
   },
   {
@@ -122,7 +122,7 @@
     "slug": "multiassemblingmachine",
     "tier": "iv",
     "article": "wiki/machines/multiassemblingmachine.md",
-    "img": "https://gtimpact.space/media/gregtech/ParAssembler.png",
+    "img": "media/gregtech/ParAssembler.png",
     "mod": "impact"
   },
   {
@@ -131,7 +131,7 @@
     "slug": "multicentrifuge",
     "tier": "iv",
     "article": "wiki/machines/multicentrifuge.md",
-    "img": "https://gtimpact.space/media/gregtech/ParCentrifuge.png",
+    "img": "media/gregtech/ParCentrifuge.png",
     "mod": "impact"
   },
   {
@@ -140,7 +140,7 @@
     "slug": "multielectrolyzer",
     "tier": "iv",
     "article": "wiki/machines/multielectrolyzer.md",
-    "img": "https://gtimpact.space/media/gregtech/ParElectr.png",
+    "img": "media/gregtech/ParElectr.png",
     "mod": "impact"
   },
   {
@@ -149,7 +149,7 @@
     "slug": "multiwirefactory",
     "tier": "iv",
     "article": "wiki/machines/multiwirefactory.md",
-    "img": "https://gtimpact.space/media/gregtech/ParWire.png",
+    "img": "media/gregtech/ParWire.png",
     "mod": "impact"
   },
   {
@@ -158,7 +158,7 @@
     "slug": "multisupplyproduction",
     "tier": "iv",
     "article": "wiki/machines/multisupplyproduction.md",
-    "img": "https://gtimpact.space/media/gregtech/ParSupply.png",
+    "img": "media/gregtech/ParSupply.png",
     "mod": "impact"
   },
   {
@@ -167,7 +167,7 @@
     "slug": "multiutilitymachine",
     "tier": "iv",
     "article": "wiki/machines/multiutilitymachine.md",
-    "img": "https://gtimpact.space/media/gregtech/ParUtill.png",
+    "img": "media/gregtech/ParUtill.png",
     "mod": "impact"
   },
   {
@@ -176,7 +176,7 @@
     "slug": "multibrewmenter",
     "tier": "iv",
     "article": "wiki/machines/multibrewmenter.md",
-    "img": "https://gtimpact.space/media/gregtech/ParBrew.png",
+    "img": "media/gregtech/ParBrew.png",
     "mod": "impact"
   },
   {
@@ -185,7 +185,7 @@
     "slug": "multiarcfurnace",
     "tier": "iv",
     "article": "wiki/machines/multiarcfurnace.md",
-    "img": "https://gtimpact.space/media/gregtech/ParArc.png",
+    "img": "media/gregtech/ParArc.png",
     "mod": "impact"
   },
   {
@@ -194,7 +194,7 @@
     "slug": "multicuttingmachine",
     "tier": "iv",
     "article": "wiki/machines/multicuttingmachine.md",
-    "img": "https://gtimpact.space/media/gregtech/ParCutt.png",
+    "img": "media/gregtech/ParCutt.png",
     "mod": "impact"
   },
   {
@@ -203,7 +203,7 @@
     "slug": "multiextradification",
     "tier": "iv",
     "article": "wiki/machines/multiextradification.md",
-    "img": "https://gtimpact.space/media/gregtech/ParExtraDi.png",
+    "img": "media/gregtech/ParExtraDi.png",
     "mod": "impact"
   },
   {
@@ -212,7 +212,7 @@
     "slug": "multimacerationstack",
     "tier": "iv",
     "article": "wiki/machines/multimacerationstack.md",
-    "img": "https://gtimpact.space/media/gregtech/ParMacer.png",
+    "img": "media/gregtech/ParMacer.png",
     "mod": "impact"
   },
   {
@@ -221,7 +221,7 @@
     "slug": "multimixingmachine",
     "tier": "iv",
     "article": "wiki/machines/multimixingmachine.md",
-    "img": "https://gtimpact.space/media/gregtech/ParMix.png",
+    "img": "media/gregtech/ParMix.png",
     "mod": "impact"
   },
   {
@@ -230,7 +230,7 @@
     "slug": "multisiftarationunit",
     "tier": "iv",
     "article": "wiki/machines/multisiftarationunit.md",
-    "img": "https://gtimpact.space/media/gregtech/ParSift.png",
+    "img": "media/gregtech/ParSift.png",
     "mod": "impact"
   },
   {
@@ -239,7 +239,7 @@
     "slug": "freezersolidifier",
     "tier": "ev",
     "article": "wiki/machines/freezersolidifier.md",
-    "img": "https://gtimpact.space/media/gregtech/ParFrezSolid.png",
+    "img": "media/gregtech/ParFrezSolid.png",
     "mod": "impact"
   },
   {
@@ -248,7 +248,7 @@
     "slug": "blastsmelter",
     "tier": "ev",
     "article": "wiki/machines/blastsmelter.md",
-    "img": "https://gtimpact.space/media/gregtech/BlastSmelter.png",
+    "img": "media/gregtech/BlastSmelter.png",
     "mod": "impact"
   },
   {
@@ -257,7 +257,7 @@
     "slug": "advancedvacuumfreezer",
     "tier": "zpm",
     "article": "wiki/machines/advancedvacuumfreezer.md",
-    "img": "https://gtimpact.space/media/gregtech/ParFreez.png",
+    "img": "media/gregtech/ParFreez.png",
     "mod": "impact"
   },
   {
@@ -266,7 +266,7 @@
     "slug": "railassembler",
     "tier": "lv",
     "article": "wiki/machines/railassembler.md",
-    "img": "https://gtimpact.space/media/gregtech/RailAssembler.png",
+    "img": "media/gregtech/RailAssembler.png",
     "mod": "impact"
   },
   {

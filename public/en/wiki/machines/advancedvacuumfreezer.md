@@ -1,10 +1,10 @@
 ### ADVANCED VACUUM FREEZER
 
-![LOGO](https://gtimpact.space/media/gregtech/ParFreez.png)
+![LOGO](ParFreez.png)
 
 ##### Description
 
-The machine is an improved version of the Vacuum Freezer. Can work with [parallelism](/wiki/mechanics#parallelism).
+The machine is an improved version of the Vacuum Freezer. Can work with [parallelism](/mechanics#parallelism).
 
 ##### General
 

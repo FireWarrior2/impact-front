@@ -1,11 +1,11 @@
 const routes = [
-  {
+  /*{
     path: '/',
     component: () => import('layouts/MainLayout'),
     children: [
       {path: '', component: () => import('pages/Index')}
     ]
-  }, {
+  }, */{
     path: '/about',
     component: () => import('layouts/MainLayout'),
     children: [
@@ -18,7 +18,7 @@ const routes = [
       {path: '', component: () => import('pages/Download')}
     ]
   }, {
-    path: '/wiki',
+    path: '/',
     component: () => import('layouts/MainLayout'),
     children: [
       {
@@ -26,15 +26,15 @@ const routes = [
         component: () => import('pages/Wiki'),
       },
       {
-        path: '/wiki/machines',
+        path: '/machines',
         component: () => import('pages/wiki/Machines')
       },
       {
-        path: '/wiki/mechanics',
+        path: '/mechanics',
         component: () => import('pages/wiki/Mechanics')
       },
       {
-        path: '/wiki/items',
+        path: '/items',
         component: () => import('pages/wiki/ItemsAndTools')
       },
     ]
