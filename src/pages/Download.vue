@@ -47,9 +47,9 @@
                         <q-item class="justify-center items-center q-py-none" style="font-size: 12px;">
                           {{ $t('download_server_cores') }}
                         </q-item>
-                        <q-btn :href="'https://gtimpact.space/go/server_cores/THERMOS_IMPACT_EMPTY_SERVER.zip'" class="q-mx-sm" flat label="Thermos" no-caps size="md" target="_blank" type="a" />
-                        <q-btn :href="'https://gtimpact.space/go/server_cores/ULTRAMINE_ORIGINAL_IMPACT_EMPTY_SERVER.zip'" class="q-mx-sm" flat label="UltraMine" no-caps size="md" target="_blank" type="a" />
-                        <q-btn :href="'https://gtimpact.space/go/server_cores/ULTRAMINE_PATCHED_IMPACT_EMPTY_SERVER.zip'" class="q-mx-sm" flat label="UltraMine (IMPACT)" no-caps size="md" target="_blank" type="a" />
+                        <q-btn :href="'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/go/server_cores/THERMOS_IMPACT_EMPTY_SERVER.zip'" class="q-mx-sm" flat label="Thermos" no-caps size="md" target="_blank" type="a" />
+                        <q-btn :href="'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/go/server_cores/ULTRAMINE_ORIGINAL_IMPACT_EMPTY_SERVER.zip'" class="q-mx-sm" flat label="UltraMine" no-caps size="md" target="_blank" type="a" />
+                        <q-btn :href="'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/go/server_cores/ULTRAMINE_PATCHED_IMPACT_EMPTY_SERVER.zip'" class="q-mx-sm" flat label="UltraMine (IMPACT)" no-caps size="md" target="_blank" type="a" />
                       </q-card-section>
                     </q-card>
                   </q-card>

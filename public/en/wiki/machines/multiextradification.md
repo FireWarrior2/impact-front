@@ -1,6 +1,6 @@
 ### MULTI EXTRADIFICATION
 
-![LOGO](https://gtimpact.space/media/gregtech/ParExtraDi.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParExtraDi.png)
 
 ##### Description
 

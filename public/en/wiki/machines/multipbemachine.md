@@ -1,6 +1,6 @@
 ### MULTI PBE MACHINE
 
-![LOGO](https://gtimpact.space/media/gregtech/ParBPE.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParBPE.png)
 
 ##### Description
 

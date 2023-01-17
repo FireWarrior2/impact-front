@@ -7,8 +7,8 @@ const updateList = [
     title: '',
     desc: '',
     img: 'https://cdn.discordapp.com/attachments/916393114166525974/965674623553384528/1020.png',
-    linkServer: 'https://gtimpact.space/go/releases/1.0.2.0/IMPACT-1.0.2.0-SERVER.zip',
-    linkClient: 'https://gtimpact.space/go/releases/1.0.2.0/IMPACT-1.0.2.0-CLIENT.zip',
+    linkServer: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/go/releases/1.0.2.0/IMPACT-1.0.2.0-SERVER.zip',
+    linkClient: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/go/releases/1.0.2.0/IMPACT-1.0.2.0-CLIENT.zip',
     changelog: [
       {
         label: 'IMPACT', children: [
@@ -56,18 +56,18 @@ const updateList = [
 ]
 
 const homePic = [
-  {src: 'https://gtimpact.space/media/bg/1.png'},
-  {src: 'https://gtimpact.space/media/bg/2.png'},
-  {src: 'https://gtimpact.space/media/bg/3.png'},
-  {src: 'https://gtimpact.space/media/bg/4.png'},
-  {src: 'https://gtimpact.space/media/bg/5.png'},
-  {src: 'https://gtimpact.space/media/bg/6.png'},
-  {src: 'https://gtimpact.space/media/bg/7.png'},
-  {src: 'https://gtimpact.space/media/bg/8.png'},
-  {src: 'https://gtimpact.space/media/bg/9.png'},
-  {src: 'https://gtimpact.space/media/bg/10.png'},
-  {src: 'https://gtimpact.space/media/bg/11.png'},
-  {src: 'https://gtimpact.space/media/bg/12.png'},
+  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/1.png'},
+  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/2.png'},
+  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/3.png'},
+  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/4.png'},
+  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/5.png'},
+  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/6.png'},
+  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/7.png'},
+  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/8.png'},
+  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/9.png'},
+  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/10.png'},
+  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/11.png'},
+  {src: 'https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/bg/12.png'},
 ]
 
 export default {

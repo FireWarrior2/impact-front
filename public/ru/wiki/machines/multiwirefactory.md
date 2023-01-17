@@ -1,6 +1,6 @@
 ### MULTI WIRE FACTORY
 
-![LOGO](https://gtimpact.space/media/gregtech/ParWire.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParWire.png)
 
 ##### Описание
 

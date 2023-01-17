@@ -1,6 +1,6 @@
 ### MULTI MACERATION STACK
 
-![LOGO](https://gtimpact.space/media/gregtech/ParMacer.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParMacer.png)
 
 ##### Description
 

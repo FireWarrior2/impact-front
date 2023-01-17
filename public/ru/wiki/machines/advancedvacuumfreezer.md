@@ -1,6 +1,6 @@
 ### ADVANCED VACUUM FREEZER
 
-![LOGO](https://gtimpact.space/media/gregtech/ParFreez.png)
+![LOGO](https://raw.githubusercontent.com/GT-IMPACT/impact-front/main/public/media/gregtech/ParFreez.png)
 
 ##### Описание
 
