@@ -12,7 +12,7 @@
 
         <q-card class="row justify-center" flat>
           <template v-for="module in modules" :key="module['id']">
-            <q-item :disable="module['disable']" :to="'/wiki/' + module['name']" clickable>
+            <q-item :disable="module['disable']" :to="'/' + module['name']" clickable>
               <q-card class="q-pa-none q-ma-none bg-none " flat square style="width: 250px;">
                 <q-icon style="height: 100px;" size="xl" :name="module['icon']"/>
                 <q-item-label lines="1" style="text-transform: uppercase">

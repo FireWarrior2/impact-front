@@ -12,6 +12,7 @@ const { configure } = require('quasar/wrappers');
 
 module.exports = configure(function (ctx) {
   return {
+		publicPath: process.env.NODE_ENV === "production" ? "/impact-front/" : "/",
     // https://v2.quasar.dev/quasar-cli/supporting-ts
     supportTS: false,
 
@@ -47,7 +48,7 @@ module.exports = configure(function (ctx) {
 
     // Full list of options: https://v2.quasar.dev/quasar-cli/quasar-conf-js#Property%3A-build
     build: {
-      vueRouterMode: 'history', // available values: 'hash', 'history'
+      vueRouterMode: 'hash', // available values: 'hash', 'history'
 
       // transpile: false,
 

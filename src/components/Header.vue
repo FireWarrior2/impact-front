@@ -9,10 +9,7 @@
     </q-card-section>
     <q-card-section class="q-py-none">
       <q-list class="row">
-        <q-item class="line-h items-center" clickable to='/'>{{ $t('home') }}</q-item>
-        <q-item class="line-h items-center" clickable to='/about'>{{ $t('about') }}</q-item>
-        <q-item class="line-h items-center" clickable to='/download'>{{ $t('download') }}</q-item>
-        <q-item class="line-h items-center" clickable to='/wiki'>{{ $t('wiki') }}</q-item>
+        <q-item class="line-h items-center" clickable to=''>{{ $t('wiki') }}</q-item>
 
       </q-list>
     </q-card-section>
